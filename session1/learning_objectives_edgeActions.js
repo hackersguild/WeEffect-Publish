@@ -27,7 +27,7 @@
 //Edge symbol: 'navigation'
 (function(symbolName){Symbol.bindElementAction(compId,symbolName,"${_Group}","click",function(sym,e){window.open("../Menu/menu1.html","_self")});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_Group2}","click",function(sym,e){window.open("discuss.html","_self")});
+Symbol.bindElementAction(compId,symbolName,"${_Group2}","click",function(sym,e){window.open("title_introduction.html","_self")});
 //Edge binding end
 })("navigation");
 //Edge symbol end:'navigation'

@@ -13,9 +13,9 @@
 //=========================================================
 
 //Edge symbol: 'navigation'
-(function(symbolName){Symbol.bindElementAction(compId,symbolName,"${_Group}","click",function(sym,e){window.open("title_introduction.html","_self")});
+(function(symbolName){Symbol.bindElementAction(compId,symbolName,"${_Group}","click",function(sym,e){window.open("title_business.html","_self")});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_Group2}","click",function(sym,e){window.open("introduction_to_dairy_farming.html","_self")});
+Symbol.bindElementAction(compId,symbolName,"${_Group2}","click",function(sym,e){window.open("dairy_farming_as_a_business_scene1.html","_self")});
 //Edge binding end
 })("navigation");
 //Edge symbol end:'navigation'

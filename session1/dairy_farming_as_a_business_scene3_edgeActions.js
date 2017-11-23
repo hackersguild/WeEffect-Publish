@@ -19,9 +19,9 @@
 //=========================================================
 
 //Edge symbol: 'navigation'
-(function(symbolName){Symbol.bindElementAction(compId,symbolName,"${_Group}","click",function(sym,e){window.open("discuss.html","_self")});
+(function(symbolName){Symbol.bindElementAction(compId,symbolName,"${_Group}","click",function(sym,e){window.open("diary_farming_as_a_business_scene2.html","_self")});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_Group2}","click",function(sym,e){window.open("aspects_for_succesful_farming.html","_self")});
+Symbol.bindElementAction(compId,symbolName,"${_Group2}","click",function(sym,e){window.open("title_record.html","_self")});
 //Edge binding end
 })("navigation");
 //Edge symbol end:'navigation'
