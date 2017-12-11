@@ -1,0 +1,24 @@
+@font-face {
+font-family: AvenirLTPro-Medium;
+src: url('fonts/AvenirLTPro-Medium.ttf');
+}
+@font-face {
+font-family: AvenirLTPro-Black;
+src: url('fonts/AvenirLTPro-Black.otf');
+}
+@font-face {
+font-family: AvenirLTPro-Light;
+src: url('fonts/AvenirLTPro-Light.otf');
+}
+@font-face {
+font-family: SwiftNeueLTPro-Book;
+src: url('fonts/SwiftNeueLTPro-Book.otf');
+}
+@font-face {
+font-family: SwiftNeueLTPro-Light;
+src: url('fonts/SwiftNeueLTPro-Light.otf');
+}
+@font-face {
+font-family: SwiftNeueLTPro-Bold;
+src: url('fonts/SwiftNeueLTPro-Bold.ttf');
+}
